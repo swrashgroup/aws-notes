@@ -112,8 +112,6 @@ _TLDR; A disk in the cloud that you attach to your EC2 instances_
 - Magnetic (Standard)
   - Lowest cost per GB of all EBS volume types that is bootable. Magnetic volumes are ideal for workloads where data is accessed infrequently, and applications where the lowest storage cost is important
 
-## Let's get our hands dirty! Launch an EC2 instance lab!
-
 ### Summary
 
 - Termination protection is turned off by default, you **MUST** turn it on.
