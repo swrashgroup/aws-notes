@@ -1,8 +1,9 @@
 # EC2 (Elastic Cloud Compute)
 
-AWS EC2 is a web service that provides resizable compute capacity in the cloud. EC2 reduces the time required to obtain and boot new server instances to minutes, allowing you to quickly scale capacity, both up and down, as your computing requirements change.
-
-EC2 has changed the economics of cloud computing by allowing you to pay only for capacity that your actually use. EC2 provides developers the tools to build failure resistent applications and isolate themselves from common failure scenarios.
+- AWS EC2 is a web service that provides resizable compute capacity in the cloud. 
+- EC2 reduces the time required to obtain and boot new server instances to minutes, allowing you to quickly scale capacity, both up and down, as your computing requirements change.
+- EC2 has changed the economics of cloud computing by allowing you to pay only for capacity that your actually use. 
+- EC2 provides developers the tools to build failure resistent applications and isolate themselves from common failure scenarios.
 
 ## Pricing Options
 
