@@ -2,7 +2,7 @@
 
 ## What is IAM?
 
-Allow you to manage users and their level of access management to the AWS console. Tested for exam and co. aws account in real life. IAM is globally available and not specified to region
+Allow you to manage users and their level of access management to the AWS console. IAM is globally available and not specified to region
 
 ## What can you do with IAM?
 
